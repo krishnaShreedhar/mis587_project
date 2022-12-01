@@ -1,7 +1,10 @@
 data
-src/week5/.ipynb_checkpoints/week5_northwind-checkpoint.ipynb
+*.ipynb_checkpoints
 src/.DS_Store
 .DS_Store
 *.xml
 *.iml
 *-checkpoint.ipynb
+*.csv
+*.h5
+*.zip
