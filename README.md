@@ -11,6 +11,8 @@ we chose this project and dataset.
 
 Dataset link: [https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022)
 
+[Feature engineering and visualization code](src/chicago_IL_feature_engineering.ipynb)
+
 ### Infographic data product of the project
 ![infographic](images/infographic.png)
 
